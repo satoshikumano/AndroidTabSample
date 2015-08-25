@@ -1,0 +1,9 @@
+Sample project how to implement Tab.
+
+Since the android.app.ActionBar.Tab has been deprecated in API Level 21,
+Need a non-deprecated way to implement Tab.
+
+Unfortunately there seems no convenient alternative at this time.
+Simplified [android-SlidingTabsBasic Sample] (https://github.com/googlesamples/android-SlidingTabsBasic) to focus on core part of Tab implementation.
+
+Thanks to the nice [article] (http://qiita.com/nein37/items/b869193ee583a96f86a8) in Qiita.
